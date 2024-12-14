@@ -1,7 +1,7 @@
-## 🥷Hi there 👋## 你好 👋
+## 🥷Hi there 👋## Hello 👋
 
 
-🌆Location: Shanghai地点：上海
+🌆Location: Shanghai
 
 👔Occupation: Salesperson in Electronic Components and IoT Products
 
