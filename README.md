@@ -32,9 +32,9 @@ In the evolving technology, I'm excited about integrating AI with traditional el
 ### AI - Powered Electronic Component Testing and Quality Assurance
 **Idea**: Build an automated testing system using AI to improve accuracy and efficiency. It can perform various tests. AI algorithms analyze results to identify defects and issues and can learn and improve.
 <br>**Implementation Steps**: Design a test fixture, develop software, train an AI model and update it.
-
+### AI Assists in PCB Plate Making. 
+**Idea** AI can optimize the PCB plate making process from schematic diagram to wiring, improve efficiency and quality, reduce human dependence, and accelerate product launch."
 These are just some ideas. I look forward to collaborating with the GitHub community to turn these concepts into reality and contribute to electronics and AI
-
 ## Contact Me             
 If you are interested in electronic components, IoT products, or the technical fields I am exploring, feel free to contact me.
 Email: bread@linposh.com.cn   
