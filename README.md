@@ -37,4 +37,4 @@ In the evolving technology, I'm excited about integrating AI with traditional el
 These are just some ideas. I look forward to collaborating with the GitHub community to turn these concepts into reality and contribute to electronics and AI
 ## Contact Me             
 If you are interested in electronic components, IoT products, or the technical fields I am exploring, feel free to contact me.
-Email: bread@linposh.com.cn   
+<br>Email: bread@linposh.com.cn   
