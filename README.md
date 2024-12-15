@@ -1,3 +1,9 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://store.west-hn.com/wp-content/uploads/2022/04/login-logo.jpg">  
+ <source media="(prefers-color-scheme: light)" srcset="https://store.west-hn.com/wp-content/uploads/2022/04/JT_logo.jpg">           
+ <img alt="YOUR-ALT-TEXT" src="https://store.west-hn.com/wp-content/uploads/2022/04/JT_logo.jpg"> 
+</picture>
+
 ## 🥷Hi there 👋Hello 👋
 
 
